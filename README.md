@@ -1,6 +1,7 @@
 # Game Rich Giver
 
-It is a trading platform that each player can playce their item into a box.
-Once both of them click "accept", they will succesfully trade the items; 
-If any of them rejected, the trade failed.
+It is a trading platform that each player exchange their items.
 
+1. Each place their item to a box.
+2. Once both of them click "accept", they will succesfully trade the items; If any of them rejected, the trade failed.
+3. Once they finished the trading, they could start another trading.
