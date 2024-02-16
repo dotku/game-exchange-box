@@ -1,4 +1,4 @@
-# Game Rich Giver
+# Game Exchange Box
 
 It is a trading platform that each player exchange their items.
 
